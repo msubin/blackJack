@@ -1,9 +1,7 @@
 """
 Name: Subin Moon
-Student Number: A01238145
 
 blackjack.py
-FINAL :)
 """
 import doctest
 import random
